@@ -1,4 +1,4 @@
-package com.fpatrise.base;
+package com.crimereporter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

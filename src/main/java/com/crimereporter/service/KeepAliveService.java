@@ -1,4 +1,4 @@
-package com.fpatrise.base.service;
+package com.crimereporter.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
